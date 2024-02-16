@@ -40,5 +40,5 @@ Here are some main hyperparameters in BOMS that you can change:
 - task: Tasks in D4RL benchmark dataset
 - traj_num: The number of online trajectories for evaluation
 - traj_max_step: The max steps of each online trajectory
-- rambo: Tntegrating BOMS with RAMBO or not
+- rambo: Integrating BOMS with RAMBO or not
   
