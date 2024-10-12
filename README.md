@@ -1,6 +1,6 @@
 # BOMS
 
-This is the implementation for **BOMS: Active Model Selection for Offline Model-Based RL via Bayesian Optimization**. We reuse [pytorch-mopo](https://github.com/yihaosun1124/pytorch-mopo) as the basis of our implementation.
+This is the implementation for **Active Model Selection for Offline Model-Based RL via Bayesian Optimization**. We reuse [pytorch-mopo](https://github.com/yihaosun1124/pytorch-mopo) as the basis of our implementation.
 
 
 Requirements
